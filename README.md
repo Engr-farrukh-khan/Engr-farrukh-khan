@@ -141,4 +141,9 @@
     <a href="https://github.com/engr-farrukh-khan/Implementation-of-multiplexer-demultiplexer-using-verilog-programming-language  " target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=engr-farrukh-khan&repo=Implementation-of-multiplexer-demultiplexer-using-verilog-programming-language&theme=dark" alt="Implementation-of-multiplexer-demultiplexer-using-verilog-programming-language" />
   </a>
+  <h3 align="left">Certificates:</h3>
+<p align="left">
+  <a href="https://www.freecodecamp.org/certification/fcc759680e0-5642-41c5-9ef8-9da0ec59afef/machine-learning-with-python-v7">🧠 Machine Learning with Python</a> </br>
+  
+  <a href="https://digiskills.pk/images/verify/VerifyCertificate_DSTP2.0-BATCH-02.jpg">📚 Data Analytics and Business Intelligence ID: HJ28XQQMK</a>
 </p>
