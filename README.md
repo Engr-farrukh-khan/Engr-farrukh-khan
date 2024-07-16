@@ -121,8 +121,24 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engr-farrukh-khan&show_icons=true&locale=en&layout=compact" alt="engr-farrukh-khan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=engr-farrukh-khan&show_icons=true&locale=en&layout=compact" alt="engr-farrukh-khan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engr-farrukh-khan&show_icons=true&locale=en" alt="engr-farrukh-khan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engr-farrukh-khan&" alt="engr-farrukh-khan" /></p>
+
+<h3 align="left">Top Repositories:</h3>
+<p align="center">
+  <a href="https://github.com/engr-farrukh-khan/Food-Recipe-App" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engr-farrukh-khan&repo=Food-Recipe-App&theme=dark" alt="Food-Recipe-App" />
+  </a>
+  <a href="https://github.com/engr-farrukh-khan/Social-Media-Analytics-Explorer" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engr-farrukh-khan&repo=Social-Media-Analytics-Explorer&theme=dark" alt="Social-Media-Analytics-Explorer" />
+  </a>
+  <a href="https://github.com/engr-farrukh-khan/Andriod-Apps  " target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engr-farrukh-khan&repo=Andriod-Apps&theme=dark" alt="Andriod-Apps " />
+  </a>
+    <a href="https://github.com/engr-farrukh-khan/Implementation-of-multiplexer-demultiplexer-using-verilog-programming-language  " target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=engr-farrukh-khan&repo=Implementation-of-multiplexer-demultiplexer-using-verilog-programming-language&theme=dark" alt="Implementation-of-multiplexer-demultiplexer-using-verilog-programming-language" />
+  </a>
+</p>
