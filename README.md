@@ -1,6 +1,6 @@
 ![logo](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 <h1 align="center">Hi 👋, I'm Farrukh Noor Khan</h1>
-<h3 align="center">A Passionate Android Developer from Pakistan ❤️</h3>
+<h3 align="center">A Passionate Flutter Developer from Pakistan ❤️</h3>
 
 - 📫 How to reach me farrukhnoorkhan456@gmail.com </br>
 - ⚡ Fun fact "<b>I think I am truly deserving of praise🤗</b>"
@@ -11,9 +11,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engr-farrukh-khan&theme=gruvbox&no-frame=true&margin-w=15" alt="engr-farrukh-khan" /></a> </p>
 
 - 🔭 I’m currently working on **Notes App**
-- 🌱 I’m currently learning **Kotlin/Python Projects**
+- 🌱 I’m currently learning **Flutter/Python Projects**
 - 👯 I’m looking to collaborate on **Two Way Sign Language App**
-- 💬 Ask me about **Android Studio, Kotlin, Java, Python, C++, UI/UX**
+- 💬 Ask me about **Android Studio, Flutter, Dart, Kotlin, Java, Python, C++, UI/UX**
 
 
 <h3 align="left">Connect with me:</h3>
