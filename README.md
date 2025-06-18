@@ -32,7 +32,7 @@
 - 🧘‍♂️ **Monk AI – TraeDevMate Hackathon (AI Avengers Team)**  
   Participated in the *"Raise Your Hack"* AI hackathon hosted by lablab.ai.  
   Developed an **AI-powered coding monk assistant** trained to guide, debug, and inspire programmers with clarity and focus.  
-  [🔗 Monk AI Website](https://monk-ai-kappa.vercel.app/) • Team: AI Avengers • Role: Team Leader & AI Engineer
+  [🔗 Monk AI Website](https://monk-ai-kappa.vercel.app/) • Team: Developer OS • Role: AI Engineer
 
 ---
 
