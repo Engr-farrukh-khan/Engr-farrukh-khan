@@ -14,20 +14,25 @@
 
 ### 🛠️ AI Projects I've Built
 
-- 🧠 **Sign Language to Text & GIF Translator**
-  > Converts textual input to sign language using an LSTM model. Integrated into a real-time app interface.
+- 🧠 **Sign Language to Text & GIF Translator**  
+  Converts textual input to sign language using an LSTM model. Integrated into a real-time app interface.
 
-- 🎥 **Text-to-GIF Generator**
-  > AI model that transforms alphabets or words into corresponding sign-language GIFs using deep learning.
+- 🎥 **Text-to-GIF Generator**  
+  AI model that transforms alphabets or words into corresponding sign-language GIFs using deep learning.
 
-- 🧾 **Sentiment Analysis of Tweets**
-  > Python-based sentiment classifier trained on live Twitter data to detect positivity or negativity in real-time.
+- 🧾 **Sentiment Analysis of Tweets**  
+  Python-based sentiment classifier trained on live Twitter data to detect positivity or negativity in real-time.
 
-- 📧 **SMS & Email Spam Detection**
-  > Machine learning classification project deployed via Streamlit. Filters out spam using NLP features.
+- 📧 **SMS & Email Spam Detection**  
+  Machine learning classification project deployed via Streamlit. Filters out spam using NLP features.
 
-- 🎬 **Movie Recommendation System**
-  > Sentiment-aware recommender inspired by Netflix UI using IMDB dataset and collaborative filtering.
+- 🎬 **Movie Recommendation System**  
+  Sentiment-aware recommender inspired by Netflix UI using IMDB dataset and collaborative filtering.
+
+- 🧘‍♂️ **Monk AI – TraeDevMate Hackathon (AI Avengers Team)**  
+  Participated in the *"Raise Your Hack"* AI hackathon hosted by lablab.ai.  
+  Developed an **AI-powered coding monk assistant** trained to guide, debug, and inspire programmers with clarity and focus.  
+  [🔗 Monk AI Website](https://monk-ai-kappa.vercel.app/) • Team: AI Avengers • Role: Team Leader & AI Engineer
 
 ---
 
