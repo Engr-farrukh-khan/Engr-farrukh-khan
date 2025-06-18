@@ -1,134 +1,78 @@
 <h1 align="center">Hi 👋, I'm Farrukh Noor Khan</h1>
-<h3 align="center">A Passionate Flutter Developer from Pakistan ❤️</h3>
+<h3 align="center">A Passionate AI Developer from Pakistan 🤖🧠</h3>
 
-- 📫 How to reach me farrukhnoorkhan456@gmail.com </br>
-- ⚡ Fun fact "<b>I think I am truly deserving of praise🤗</b>"
-<img align="right" alt="coding android" width="200" src="https://cdn.dribbble.com/users/77598/screenshots/16399264/media/d86ceb1ad552398787fb76f343080aa6.gif">
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/15639967/media/e9ad5c8d65ff2fd6c25e6fead15d1d65.gif" width="280" alt="AI Vibes" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engr-farrukh-khan&label=Profile%20views&color=0e75b6&style=flat" alt="engr-farrukh-khan" /> </p>
+- 🌟 AI isn't just my field—it's my canvas to code intelligence into existence.
+- 🧠 Currently exploring the boundaries of **NLP, Computer Vision**, and **AI product prototyping**.
+- 📬 Reach me at: **farrukhnoorkhan456@gmail.com**
+- ⚡ Fun fact: **“I believe patience and code both can teach machines to think.”**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engr-farrukh-khan&theme=gruvbox&no-frame=true&margin-w=15" alt="engr-farrukh-khan" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Notes App**
-- 🌱 I’m currently learning **Flutter/Python Projects**
-- 👯 I’m looking to collaborate on **Two Way Sign Language App**
-- 💬 Ask me about **Android Studio, Flutter, Dart, Kotlin, Java, Python, C++, UI/UX**
+### 🛠️ AI Projects I've Built
 
+- 🧠 **Sign Language to Text & GIF Translator**
+  > Converts textual input to sign language using an LSTM model. Integrated into a real-time app interface.
 
-<h3 align="left">Connect with me:</h3>
+- 🎥 **Text-to-GIF Generator**
+  > AI model that transforms alphabets or words into corresponding sign-language GIFs using deep learning.
+
+- 🧾 **Sentiment Analysis of Tweets**
+  > Python-based sentiment classifier trained on live Twitter data to detect positivity or negativity in real-time.
+
+- 📧 **SMS & Email Spam Detection**
+  > Machine learning classification project deployed via Streamlit. Filters out spam using NLP features.
+
+- 🎬 **Movie Recommendation System**
+  > Sentiment-aware recommender inspired by Netflix UI using IMDB dataset and collaborative filtering.
+
+---
+
+### 🧰 Languages & Tools for AI
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" height="40"/> </a>
+  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> </a>
+  <a href="https://streamlit.io/" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="90" height="40"/> </a>
+</p>
+
+---
+
+### 📜 Certifications
+
+- 🧠 [Machine Learning with Python – freeCodeCamp](https://www.freecodecamp.org/certification/fcc759680e0-5642-41c5-9ef8-9da0ec59afef/machine-learning-with-python-v7)
+- 📊 [Data Analytics & Business Intelligence – DigiSkills (ID: HJ28XQQMK)](https://digiskills.pk/images/verify/VerifyCertificate_DSTP2.0-BATCH-02.jpg)
+
+---
+
+### 🌐 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/farrukhkhan-f12" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farrukhkhan-f12" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/www.youtube.com/@iam.farrukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@iam.farrukh" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@iam.farrukh" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engr-farrukh-khan" alt="Farrukh's GitHub Streak" />
 </p>
-<h3 align="left">Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=engr-farrukh-khan&show_icons=true&theme=radical" />
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=engr-farrukh-khan&show_icons=true&locale=en&layout=compact" alt="engr-farrukh-khan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engr-farrukh-khan&show_icons=true&locale=en" alt="engr-farrukh-khan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engr-farrukh-khan&" alt="engr-farrukh-khan" /></p>
-
-  <h3 align="left">Certificates:</h3>
-<p align="left">
-  <a href="https://www.freecodecamp.org/certification/fcc759680e0-5642-41c5-9ef8-9da0ec59afef/machine-learning-with-python-v7">🧠 Machine Learning with Python</a> </br>
-  
-  <a href="https://digiskills.pk/images/verify/VerifyCertificate_DSTP2.0-BATCH-02.jpg">📚 Data Analytics and Business Intelligence ID: HJ28XQQMK</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engr-farrukh-khan&layout=compact&theme=radical" />
 </p>
